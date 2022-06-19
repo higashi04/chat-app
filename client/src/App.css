@@ -1,0 +1,11 @@
+.sideBar{
+    display: flex;
+    height: 100vh;
+}
+.panel{
+    display: flex;
+    /* flex-grow: 1; */
+}
+.customBtn{
+    width: 100%;
+}
